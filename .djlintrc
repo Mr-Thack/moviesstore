@@ -1,0 +1,4 @@
+[tool.djlint]
+profile = "django"
+ignore = "H021,H006"
+preserve_blank_lines = true
